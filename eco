@@ -1,0 +1,4 @@
+#!/bin/bash
+a="na maika ti u putkata"
+
+echo $a
