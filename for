@@ -12,8 +12,8 @@ a=$(($a + $b))
 echo "$a"
 b=$(($a + $b))
 echo "$b"
-
+echo "$b"
 
 
 done
-####
+
